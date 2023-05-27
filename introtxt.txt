@@ -1,3 +1,4 @@
 Hello WORLD
 Is it crazy or me
-git
+git is crazy
+well just to check
